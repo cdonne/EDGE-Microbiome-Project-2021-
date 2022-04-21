@@ -15,9 +15,9 @@
 
 ## EDGE_Sampling_F21.csv
 ### Added 4/21/22
--A list of all the soil samples 
--Missing Rhizosphere samples for DNA extractions indicated in red
--Rhizosphere plot and sample numbers correspond to sample numbers for plant and root samples as well 
+- A list of all the soil samples 
+- Missing Rhizosphere samples for DNA extractions indicated in red
+- Rhizosphere plot and sample numbers correspond to sample numbers for plant and root samples as well 
 
 
  **_All files uploaded as both .csv and .xlsx_**
