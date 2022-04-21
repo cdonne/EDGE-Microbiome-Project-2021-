@@ -13,8 +13,11 @@
 | KNZ  | Sorghastrum nutans, Schizachyrium scoparium | 
 
 
-## EDGE_Sampling_F21.xlsx
+## EDGE_Sampling_F21.csv
 ### Added 4/21/22
 -A list of all the soil samples 
 -Missing Rhizosphere samples for DNA extractions indicated in red
 -Rhizosphere plot and sample numbers correspond to sample numbers for plant and root samples as well 
+
+
+#### All files uploaded as both .csv and .xlsx 
